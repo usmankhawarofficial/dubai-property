@@ -1,0 +1,7 @@
+{
+  "name": "Dubai-property",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
