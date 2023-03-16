@@ -1,0 +1,34 @@
+ion-content{
+    --padding-top: 70px;
+}
+
+.nav{
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    box-shadow: none;
+    width: 100%;
+    border-radius: 0;
+    border-bottom: 1px solid #eee;
+
+    .t1{
+        font-family: 'Dancing Script', cursive;
+        color: #F7770F;
+        margin: 15px;
+        b{
+            font-size: 45px;
+        }
+      }
+}
+
+.c1{
+    width: 98%;
+    box-shadow: none;
+    margin-right: auto;
+    margin-left: auto;
+    .t2{
+        margin: 20px;
+        font-family: 'Stick No Bills', sans-serif;
+    }
+}
